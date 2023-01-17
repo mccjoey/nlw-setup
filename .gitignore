@@ -1,4 +1,4 @@
-**./node_modules/
+node_modules
 .expo/
 dist/
 npm-debug.*
@@ -22,7 +22,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+
 dist
 dist-ssr
 *.local
